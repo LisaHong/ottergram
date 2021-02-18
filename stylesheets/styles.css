@@ -120,10 +120,15 @@ a {
     position: absolute;
     bottom: -16px;
     left: 4px;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 729e58a0b68127fecbb018555e01374d195b62e1
     font-family: airstreamregular;
     color: white;
     text-shadow: rgba(0, 0, 0, 0.9) 1px 2px 9px;
     font-size: 40px;
+<<<<<<< HEAD
 }
 
 .hidden-detail .detail-image-container {
@@ -146,3 +151,6 @@ a {
     padding: 10px 20px;
     cursor: pointer;
 }
+=======
+}   
+>>>>>>> 729e58a0b68127fecbb018555e01374d195b62e1
